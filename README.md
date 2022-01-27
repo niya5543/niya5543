@@ -9,4 +9,4 @@
 
 ### Connect with me:
 
-<a href="https://instagram.com niy._a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=niy._a_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/niy._a_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=niy._a_" height="30" width="40" /></a>
